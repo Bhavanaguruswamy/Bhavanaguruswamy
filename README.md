@@ -11,9 +11,9 @@ I'm Bhavana Guruswamy
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
 - **Tools:** Excel, Power BI, Jupyter Notebook, Git & GitHub, Tableau, SAS  
 - **Cloud Tools:** VBCS, APEX, REST API  
-- **Other:** Data Cleaning, EDA, Dashboards, Report Automation  
 - **Networking:** TCP/IP, DNS (Basic commands)  
 - **Platforms:** Ubuntu (Linux)
+- **Other:** Data Cleaning, EDA, Dashboards, Report Automation  
 
 ---
 
